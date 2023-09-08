@@ -14,4 +14,5 @@ wyksztalcenie = input('Wyksztalcenie? ')
 
 poziom_ryzyka = funkcja_ryzyko.poziom_ryzyka(wiek, plec, wyksztalcenie)
 
+funkcja_rodzaj_inwestycji.rodzaj_inwestycji(poziom_ryzyka, kasa_w_USD)
 
